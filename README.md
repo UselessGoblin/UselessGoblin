@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UselessGoblin
-- 👀 I’m interested in imroving myself.
+- 👀 I’m interested in improving myself.
 - 🌱 I’m currently learning To further develope my skills in C# and Unity.
 - 💞️ I’m looking to collaborate on learning and how best to improve.
 - 📫 How to reach me on Discord @ UselessGoblin#2636.
